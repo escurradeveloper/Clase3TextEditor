@@ -1,2 +1,2 @@
-# Clase3TextEditor
-TextEditor en SwiftUI
+# TextEditor en SwiftUI
+Clase3 TextEditor en SwiftUI
